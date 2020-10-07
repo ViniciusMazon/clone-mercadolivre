@@ -1,6 +1,8 @@
 # 💡 Sobre o projeto
 
-Clone da página de produto do Mercado Livre
+Clone da página de produto do Mercado Livre.
+
+**Demo:** https://clone-mercadolivre-viniciusmazon.netlify.app
 
 
 Desenvolvido seguindo a aula  [Página de produto do Mercado Livre com ReactJS | UI Clone](https://www.youtube.com/watch?v=APs_xQ2hUOE&list=WL&index=2), créditos a [Rocketseat 🚀](https://github.com/Rocketseat)
